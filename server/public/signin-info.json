@@ -1,0 +1,14 @@
+[
+  {
+    "portalUrl": "https://artvvpergtgtqzjd.maps.arcgis.com",
+    "clientId": "bEZbauVsFGoZ0nwD",
+    "supportsOAuth": true,
+    "isWebTier": false
+  },
+  {
+    "portalUrl": "https://pinkassher-sheba.maps.arcgis.com",
+    "clientId": "bEZbauVsFGoZ0nwD",
+    "supportsOAuth": true,
+    "isWebTier": false
+  }
+]
