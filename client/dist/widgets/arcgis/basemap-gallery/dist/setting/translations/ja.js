@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({selectMapWidget:"マップ ウィジェットの選択",baseMapSettings:"ベースマップ設定",groupBasemaps:"組織のベースマップ ギャラリー設定と同期",customBasemaps:"カスタム ベースマップの構成",importBasemaps:"インポート",importTips:"「インポート」ボタンをクリックして、マップ ウィジェットのベースマップを追加します。",sideTitle:"ベースマップのインポート",chooseWebmaps:"Web マップをベースマップとして使用できるグループを選択します。"})}}}));

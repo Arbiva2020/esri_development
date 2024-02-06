@@ -1,0 +1,37 @@
+{
+  "name": "OpenUrlWithParams - Copy",
+  "label": "OpenUrlWithParams",
+  "type": "widget",
+  "version": "1.10.0",
+  "exbVersion": "1.10.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in developer documentation",
+  "copyright": "",
+  "dependency": "jimu-arcgis",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "redirectUrl": {
+      "type": "string",
+      "label": "Redirect URL",
+      "tooltip": "Enter the URL to redirect to",
+      "supportInlineEditing": true,
+      "hasEmbeddedLayout": true
+    },
+    "showTitle": {
+      "type": "boolean",
+      "label": "Show Title",
+      "tooltip": "Toggle to show or hide the title"
+    }
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  },
+  "canConsumeDataAction": true,
+  "canCreateMapView": true,
+  "hasConfig": true,
+  "supportInlineEditing": true
+}

@@ -1,0 +1,17 @@
+.widget_box_main {
+    width: 50%;
+    height: 50%;
+    background-color: blanchedalmond;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.alertPop {
+    background-color: blueviolet;
+    color: azure;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}

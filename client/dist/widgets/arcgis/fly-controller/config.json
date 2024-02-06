@@ -1,0 +1,24 @@
+{
+  "useMapWidgetIds": [],
+  "itemsList": [{
+      "uuid": "0",
+      "name": "ROTATE",
+      "isInUse": true,
+      "direction": "CCW",
+      "defaultSpeed": "default"
+    }, {
+      "uuid": "1",
+      "name": "PATH",
+      "isInUse": true,
+      "direction": "FORWARD",
+      "style": "CURVED",
+      "defaultSpeed": "default"
+    }, {
+      "uuid": "2",
+      "name": "ROUTE",
+      "isInUse": false,
+      "routes": []
+    }
+  ],
+  "layout": "HORIZONTAL"
+}

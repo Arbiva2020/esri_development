@@ -1,0 +1,9 @@
+{
+  "devEnv": {
+    "prod": {
+      "portalUrl": "https://pinkassher-sheba.maps.arcgis.com",
+      "clientId": "bEZbauVsFGoZ0nwD",
+      "isWebTier": false
+    }
+  }
+}
